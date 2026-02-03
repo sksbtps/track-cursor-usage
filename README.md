@@ -10,6 +10,9 @@ A lightweight macOS menu bar application that displays your Cursor AI usage stat
 
 </div>
 
+## ✨ How it looks
+<img width="308" height="446" alt="Screenshot 2026-02-03 at 10 49 03 AM" src="https://github.com/user-attachments/assets/b0b6aa24-7f69-478f-bb79-36e3297d7954" />
+
 ## ✨ Features
 
 - **📊 Real-time Usage Tracking**: Monitor included requests remaining directly in your menu bar
