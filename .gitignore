@@ -29,6 +29,3 @@ build/
 # Playwright
 .playwright/
 playwright/.env
-
-# Articles/Drafts
-MEDIUM_ARTICLE.md
